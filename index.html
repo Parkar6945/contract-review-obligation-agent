@@ -454,6 +454,7 @@ tr:hover td { background: rgba(59,130,246,0.04); }
 <!-- Tabs -->
 <div class="nav-tabs">
     <div class="nav-tab active" data-tab="overview">📊 Overview</div>
+    <div class="nav-tab" data-tab="video">🎬 2.5-Min Video</div>
     <div class="nav-tab" data-tab="contracts">📄 Contracts</div>
     <div class="nav-tab" data-tab="obligations">⏰ Obligations</div>
     <div class="nav-tab" data-tab="risk">⚠️ Risk & Flags</div>
@@ -518,6 +519,40 @@ tr:hover td { background: rgba(59,130,246,0.04); }
         <div class="card">
             <div class="card-header"><span class="card-title">Governing Law Distribution</span></div>
             <div class="chart-container"><canvas id="chart-laws"></canvas></div>
+        </div>
+    </div>
+</div>
+
+<!-- ═══════════════ TAB: VIDEO EXPLAINER ═══════════════ -->
+<div class="tab-content" id="tab-video">
+    <div class="section-header"><span class="icon">🎬</span> 2.5-Minute Video Walkthrough & Animated Infographics</div>
+    <div class="card" style="text-align:center;padding:24px;margin-bottom:20px">
+        <video width="100%" max-width="1280" height="auto" controls style="border-radius:12px;border:1px solid var(--border);box-shadow:0 10px 30px rgba(0,0,0,0.5);" autoplay muted loop>
+            <source src="demo_explainer_video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <div style="margin-top:16px;display:flex;justify-content:center;gap:16px;">
+            <a href="demo_explainer_video.mp4" download class="badge badge-success" style="font-size:14px;padding:8px 16px;text-decoration:none;">⬇️ Download MP4 Video (1080p HD)</a>
+            <span class="badge badge-info" style="font-size:14px;padding:8px 16px;">⏱️ Duration: 2 mins 44 secs</span>
+        </div>
+    </div>
+    
+    <div class="grid grid-4">
+        <div class="card">
+            <div class="card-title">Scene 1 & 2: The Problem</div>
+            <p style="font-size:13px;color:var(--text-muted);margin-top:8px;">4-hr cycle times, 6% missed renewal windows, 9% annual revenue leakage (WorldCC benchmarks).</p>
+        </div>
+        <div class="card">
+            <div class="card-title">Scene 3: Agent Architecture</div>
+            <p style="font-size:13px;color:var(--text-muted);margin-top:8px;">Supervisor-Worker pattern, 4 specialized agents, tool isolation & least privilege.</p>
+        </div>
+        <div class="card">
+            <div class="card-title">Scene 4 & 5: Testing & Results</div>
+            <p style="font-size:13px;color:var(--text-muted);margin-top:8px;">Contract C03 worked example, 97.8% field accuracy, 96.9% recall, 100% routing accuracy.</p>
+        </div>
+        <div class="card">
+            <div class="card-title">Scene 6 & 7: Governance & ROI</div>
+            <p style="font-size:13px;color:var(--text-muted);margin-top:8px;">DPDP Act 2023 & NIST AI RMF compliance, 3 autonomy tiers, 70.3% 2-year ROI, 10.5-mo payback.</p>
         </div>
     </div>
 </div>

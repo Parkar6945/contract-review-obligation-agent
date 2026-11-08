@@ -1,0 +1,17 @@
+file 'C:\Users\varun\.gemini\antigravity\scratch\contract-dashboard\video_assets\scene_00.png'
+duration 16
+file 'C:\Users\varun\.gemini\antigravity\scratch\contract-dashboard\video_assets\scene_01.png'
+duration 20
+file 'C:\Users\varun\.gemini\antigravity\scratch\contract-dashboard\video_assets\scene_02.png'
+duration 24
+file 'C:\Users\varun\.gemini\antigravity\scratch\contract-dashboard\video_assets\scene_03.png'
+duration 24
+file 'C:\Users\varun\.gemini\antigravity\scratch\contract-dashboard\video_assets\scene_04.png'
+duration 24
+file 'C:\Users\varun\.gemini\antigravity\scratch\contract-dashboard\video_assets\scene_05.png'
+duration 20
+file 'C:\Users\varun\.gemini\antigravity\scratch\contract-dashboard\video_assets\scene_06.png'
+duration 20
+file 'C:\Users\varun\.gemini\antigravity\scratch\contract-dashboard\video_assets\scene_07.png'
+duration 16
+file 'C:\Users\varun\.gemini\antigravity\scratch\contract-dashboard\video_assets\scene_07.png'
