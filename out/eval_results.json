@@ -1,0 +1,58 @@
+{
+  "field_accuracy": {
+    "correct": 88,
+    "total": 90,
+    "percentage": 97.8
+  },
+  "field_mismatches": [
+    {
+      "contract": "C04",
+      "field": "payment_days",
+      "expected": 15,
+      "actual": null
+    },
+    {
+      "contract": "C07",
+      "field": "term_months",
+      "expected": 24,
+      "actual": null
+    }
+  ],
+  "obligation_recall": {
+    "found": 31,
+    "total": 32,
+    "percentage": 96.9
+  },
+  "missed_obligations": [
+    {
+      "contract": "C07",
+      "obligation": {
+        "party": "Either",
+        "action": "send notice of non-renewal (deadline)",
+        "due": "2027-11-01"
+      }
+    }
+  ],
+  "routing_accuracy": {
+    "correct": 10,
+    "total": 10,
+    "percentage": 100.0
+  },
+  "flag_summary": {
+    "total": 22,
+    "high": 5,
+    "medium": 15,
+    "low": 2
+  },
+  "obligation_status": {
+    "PAST DUE": 24,
+    "UPCOMING": 5,
+    "DUE <=90d": 1,
+    "NEEDS REVIEW (no date parsed)": 1
+  },
+  "contracts_by_route": {
+    "LEGAL REVIEW REQUIRED": 5,
+    "MANAGER REVIEW": 4,
+    "AUTO-APPROVE (log only)": 1
+  }
+}

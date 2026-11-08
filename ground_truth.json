@@ -1,0 +1,362 @@
+[
+  {
+    "id": "C01",
+    "type": "SaaS Subscription Agreement",
+    "customer": "Pinnacle Infotech Pvt Ltd",
+    "supplier": "CloudNine Solutions Inc",
+    "effective": "2026-02-15",
+    "term_months": 24,
+    "end": "2028-02-14",
+    "auto_renew": false,
+    "notice_days": 0,
+    "payment_days": 30,
+    "liability": "fixed",
+    "governing_law": "Singapore",
+    "dpdp": true,
+    "termination_convenience": false,
+    "indemnity": "mutual",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver initial platform configuration",
+        "due": "2026-04-15"
+      },
+      {
+        "party": "Customer",
+        "action": "provide access credentials and data migration files",
+        "due": "2026-03-15"
+      }
+    ],
+    "unusual": null
+  },
+  {
+    "id": "C02",
+    "type": "Master Services Agreement",
+    "customer": "Deccan Auto Components Ltd",
+    "supplier": "Helix Components Co",
+    "effective": "2026-01-10",
+    "term_months": 24,
+    "end": "2028-01-09",
+    "auto_renew": true,
+    "notice_days": 60,
+    "payment_days": 60,
+    "liability": "fixed",
+    "governing_law": "England",
+    "dpdp": true,
+    "termination_convenience": true,
+    "indemnity": "one-way",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver project plan and timeline",
+        "due": "2026-02-10"
+      },
+      {
+        "party": "Supplier",
+        "action": "submit quarterly performance report",
+        "due": "2026-04-10"
+      },
+      {
+        "party": "Customer",
+        "action": "provide site access for installation",
+        "due": "2026-03-01"
+      },
+      {
+        "party": "Either",
+        "action": "send notice of non-renewal (deadline)",
+        "due": "2027-11-10"
+      }
+    ],
+    "unusual": null
+  },
+  {
+    "id": "C03",
+    "type": "Supply Agreement",
+    "customer": "Saffron Retail Holdings",
+    "supplier": "DataBridge Analytics Pvt Ltd",
+    "effective": "2026-03-22",
+    "term_months": 36,
+    "end": "2029-03-21",
+    "auto_renew": true,
+    "notice_days": 60,
+    "payment_days": 45,
+    "liability": "unlimited",
+    "governing_law": "Singapore",
+    "dpdp": true,
+    "termination_convenience": true,
+    "indemnity": "mutual",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver Phase 1 deliverables",
+        "due": "2026-07-06"
+      },
+      {
+        "party": "Supplier",
+        "action": "submit Phase 2 completion report",
+        "due": "2026-10-05"
+      },
+      {
+        "party": "Customer",
+        "action": "provide final acceptance certificate",
+        "due": "2027-01-15"
+      },
+      {
+        "party": "Either",
+        "action": "send notice of non-renewal (deadline)",
+        "due": "2029-01-20"
+      }
+    ],
+    "unusual": null
+  },
+  {
+    "id": "C04",
+    "type": "Services Agreement",
+    "customer": "Vistara Logistics Corp",
+    "supplier": "Prism Software Ltd",
+    "effective": "2026-04-01",
+    "term_months": 12,
+    "end": "2027-03-31",
+    "auto_renew": false,
+    "notice_days": 0,
+    "payment_days": 15,
+    "liability": "fees",
+    "governing_law": "India",
+    "dpdp": true,
+    "termination_convenience": false,
+    "indemnity": "one-way",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver training materials",
+        "due": "2026-05-15"
+      },
+      {
+        "party": "Supplier",
+        "action": "submit final deliverables report",
+        "due": "2026-09-30"
+      }
+    ],
+    "unusual": "payment_words"
+  },
+  {
+    "id": "C05",
+    "type": "SaaS Subscription Agreement",
+    "customer": "Meridian Pharma Ltd",
+    "supplier": "NovaTech Systems",
+    "effective": "2026-01-05",
+    "term_months": 36,
+    "end": "2029-01-04",
+    "auto_renew": true,
+    "notice_days": 90,
+    "payment_days": 30,
+    "liability": "fees",
+    "governing_law": "India",
+    "dpdp": false,
+    "termination_convenience": true,
+    "indemnity": "mutual",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver system integration documentation",
+        "due": "2026-03-05"
+      },
+      {
+        "party": "Customer",
+        "action": "provide user acceptance test results",
+        "due": "2026-04-05"
+      },
+      {
+        "party": "Supplier",
+        "action": "submit go-live readiness report",
+        "due": "2026-06-05"
+      },
+      {
+        "party": "Either",
+        "action": "send notice of non-renewal (deadline)",
+        "due": "2028-10-06"
+      }
+    ],
+    "unusual": null
+  },
+  {
+    "id": "C06",
+    "type": "Master Services Agreement",
+    "customer": "Zenith Financial Services",
+    "supplier": "Apex Cloud Services",
+    "effective": "2026-02-01",
+    "term_months": 24,
+    "end": "2028-01-31",
+    "auto_renew": true,
+    "notice_days": 30,
+    "payment_days": 90,
+    "liability": "unlimited",
+    "governing_law": "England",
+    "dpdp": true,
+    "termination_convenience": false,
+    "indemnity": "mutual",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver initial assessment report",
+        "due": "2026-03-15"
+      },
+      {
+        "party": "Customer",
+        "action": "provide historical data export",
+        "due": "2026-03-01"
+      },
+      {
+        "party": "Supplier",
+        "action": "submit compliance audit findings",
+        "due": "2026-08-01"
+      },
+      {
+        "party": "Either",
+        "action": "send notice of non-renewal (deadline)",
+        "due": "2028-01-01"
+      }
+    ],
+    "unusual": null
+  },
+  {
+    "id": "C07",
+    "type": "Supply Agreement",
+    "customer": "Horizon Agritech",
+    "supplier": "CyberShield Security Inc",
+    "effective": "2026-03-01",
+    "term_months": 24,
+    "end": "2028-02-29",
+    "auto_renew": true,
+    "notice_days": 120,
+    "payment_days": 60,
+    "liability": "fixed",
+    "governing_law": "Singapore",
+    "dpdp": true,
+    "termination_convenience": true,
+    "indemnity": "one-way",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver security audit report",
+        "due": "2026-05-01"
+      },
+      {
+        "party": "Customer",
+        "action": "provide network architecture documentation",
+        "due": "2026-04-15"
+      },
+      {
+        "party": "Supplier",
+        "action": "submit penetration test results",
+        "due": "2026-07-01"
+      },
+      {
+        "party": "Either",
+        "action": "send notice of non-renewal (deadline)",
+        "due": "2027-11-01"
+      }
+    ],
+    "unusual": "term_words"
+  },
+  {
+    "id": "C08",
+    "type": "Services Agreement",
+    "customer": "Quantum Digital Solutions Pvt Ltd",
+    "supplier": "Atlas Supply Chain Co",
+    "effective": "2026-05-01",
+    "term_months": 24,
+    "end": "2028-04-30",
+    "auto_renew": false,
+    "notice_days": 0,
+    "payment_days": 45,
+    "liability": "fees",
+    "governing_law": "India",
+    "dpdp": true,
+    "termination_convenience": false,
+    "indemnity": "mutual",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver prototype design documents",
+        "due": "2026-07-01"
+      },
+      {
+        "party": "Customer",
+        "action": "provide feedback on prototype",
+        "due": "2026-08-15"
+      }
+    ],
+    "unusual": null
+  },
+  {
+    "id": "C09",
+    "type": "SaaS Subscription Agreement",
+    "customer": "Coral Hospitality Group",
+    "supplier": "TerraFirm IT Solutions",
+    "effective": "2026-01-20",
+    "term_months": 36,
+    "end": "2029-01-19",
+    "auto_renew": true,
+    "notice_days": 60,
+    "payment_days": 30,
+    "liability": "unlimited",
+    "governing_law": "England",
+    "dpdp": true,
+    "termination_convenience": true,
+    "indemnity": "one-way",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver data migration completion report",
+        "due": "2026-04-20"
+      },
+      {
+        "party": "Customer",
+        "action": "provide legacy system access",
+        "due": "2026-02-20"
+      },
+      {
+        "party": "Supplier",
+        "action": "submit user training completion certificate",
+        "due": "2026-06-20"
+      },
+      {
+        "party": "Either",
+        "action": "send notice of non-renewal (deadline)",
+        "due": "2028-11-20"
+      }
+    ],
+    "unusual": null
+  },
+  {
+    "id": "C10",
+    "type": "Supply Agreement",
+    "customer": "Summit Engineering Works",
+    "supplier": "Orbit Technologies Ltd",
+    "effective": "2026-06-01",
+    "term_months": 12,
+    "end": "2027-05-31",
+    "auto_renew": false,
+    "notice_days": 0,
+    "payment_days": 30,
+    "liability": "fees",
+    "governing_law": "India",
+    "dpdp": false,
+    "termination_convenience": false,
+    "indemnity": "mutual",
+    "obligations": [
+      {
+        "party": "Supplier",
+        "action": "deliver equipment specifications",
+        "due": "2026-08-01"
+      },
+      {
+        "party": "Supplier",
+        "action": "submit installation completion report",
+        "due": "2026-12-15"
+      }
+    ],
+    "unusual": "date_words"
+  }
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C01"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C01",
+  "n": 1
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C01",
+  "route": "MANAGER REVIEW"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C02"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C02",
+  "n": 3
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C02",
+  "route": "MANAGER REVIEW"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C03"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C03",
+  "n": 2
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C03",
+  "route": "LEGAL REVIEW REQUIRED"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C04"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C04",
+  "n": 2
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C04",
+  "route": "MANAGER REVIEW"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C05"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C05",
+  "n": 2
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C05",
+  "route": "LEGAL REVIEW REQUIRED"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C06"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C06",
+  "n": 3
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C06",
+  "route": "LEGAL REVIEW REQUIRED"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C07"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C07",
+  "n": 5
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C07",
+  "route": "MANAGER REVIEW"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C08"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C08",
+  "n": 0
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C08",
+  "route": "AUTO-APPROVE (log only)"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C09"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C09",
+  "n": 3
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C09",
+  "route": "LEGAL REVIEW REQUIRED"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "extractor",
+  "event": "extracted",
+  "contract": "C10"
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "reviewer",
+  "event": "flags",
+  "contract": "C10",
+  "n": 1
+ },
+ {
+  "ts": "2026-11-06T10:00:00",
+  "agent": "supervisor",
+  "event": "routed",
+  "contract": "C10",
+  "route": "LEGAL REVIEW REQUIRED"
+ }
+]

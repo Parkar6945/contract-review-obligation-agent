@@ -1,0 +1,250 @@
+[
+ {
+  "party": "Supplier",
+  "action": "deliver initial platform configuration",
+  "due": "2026-04-15",
+  "contract": "C01",
+  "status": "PAST DUE",
+  "days": -205
+ },
+ {
+  "party": "Customer",
+  "action": "provide access credentials and data migration files",
+  "due": "2026-03-15",
+  "contract": "C01",
+  "status": "PAST DUE",
+  "days": -236
+ },
+ {
+  "party": "Supplier",
+  "action": "deliver project plan and timeline",
+  "due": "2026-02-10",
+  "contract": "C02",
+  "status": "PAST DUE",
+  "days": -269
+ },
+ {
+  "party": "Supplier",
+  "action": "submit quarterly performance report",
+  "due": "2026-04-10",
+  "contract": "C02",
+  "status": "PAST DUE",
+  "days": -210
+ },
+ {
+  "party": "Customer",
+  "action": "provide site access for installation",
+  "due": "2026-03-01",
+  "contract": "C02",
+  "status": "PAST DUE",
+  "days": -250
+ },
+ {
+  "party": "Either",
+  "action": "send notice of non-renewal (deadline)",
+  "due": "2027-11-10",
+  "contract": "C02",
+  "status": "UPCOMING",
+  "days": 369
+ },
+ {
+  "party": "Supplier",
+  "action": "deliver Phase 1 deliverables",
+  "due": "2026-07-06",
+  "contract": "C03",
+  "status": "PAST DUE",
+  "days": -123
+ },
+ {
+  "party": "Supplier",
+  "action": "submit Phase 2 completion report",
+  "due": "2026-10-05",
+  "contract": "C03",
+  "status": "PAST DUE",
+  "days": -32
+ },
+ {
+  "party": "Customer",
+  "action": "provide final acceptance certificate",
+  "due": "2027-01-15",
+  "contract": "C03",
+  "status": "DUE <=90d",
+  "days": 70
+ },
+ {
+  "party": "Either",
+  "action": "send notice of non-renewal (deadline)",
+  "due": "2029-01-20",
+  "contract": "C03",
+  "status": "UPCOMING",
+  "days": 806
+ },
+ {
+  "party": "Supplier",
+  "action": "deliver training materials",
+  "due": "2026-05-15",
+  "contract": "C04",
+  "status": "PAST DUE",
+  "days": -175
+ },
+ {
+  "party": "Supplier",
+  "action": "submit final deliverables report",
+  "due": "2026-09-30",
+  "contract": "C04",
+  "status": "PAST DUE",
+  "days": -37
+ },
+ {
+  "party": "Supplier",
+  "action": "deliver system integration documentation",
+  "due": "2026-03-05",
+  "contract": "C05",
+  "status": "PAST DUE",
+  "days": -246
+ },
+ {
+  "party": "Customer",
+  "action": "provide user acceptance test results",
+  "due": "2026-04-05",
+  "contract": "C05",
+  "status": "PAST DUE",
+  "days": -215
+ },
+ {
+  "party": "Supplier",
+  "action": "submit go-live readiness report",
+  "due": "2026-06-05",
+  "contract": "C05",
+  "status": "PAST DUE",
+  "days": -154
+ },
+ {
+  "party": "Either",
+  "action": "send notice of non-renewal (deadline)",
+  "due": "2028-10-06",
+  "contract": "C05",
+  "status": "UPCOMING",
+  "days": 700
+ },
+ {
+  "party": "Supplier",
+  "action": "deliver initial assessment report",
+  "due": "2026-03-15",
+  "contract": "C06",
+  "status": "PAST DUE",
+  "days": -236
+ },
+ {
+  "party": "Customer",
+  "action": "provide historical data export",
+  "due": "2026-03-01",
+  "contract": "C06",
+  "status": "PAST DUE",
+  "days": -250
+ },
+ {
+  "party": "Supplier",
+  "action": "submit compliance audit findings",
+  "due": "2026-08-01",
+  "contract": "C06",
+  "status": "PAST DUE",
+  "days": -97
+ },
+ {
+  "party": "Either",
+  "action": "send notice of non-renewal (deadline)",
+  "due": "2028-01-01",
+  "contract": "C06",
+  "status": "UPCOMING",
+  "days": 421
+ },
+ {
+  "party": "Supplier",
+  "action": "deliver security audit report",
+  "due": "2026-05-01",
+  "contract": "C07",
+  "status": "PAST DUE",
+  "days": -189
+ },
+ {
+  "party": "Customer",
+  "action": "provide network architecture documentation",
+  "due": "2026-04-15",
+  "contract": "C07",
+  "status": "PAST DUE",
+  "days": -205
+ },
+ {
+  "party": "Supplier",
+  "action": "submit penetration test results",
+  "due": "2026-07-01",
+  "contract": "C07",
+  "status": "PAST DUE",
+  "days": -128
+ },
+ {
+  "party": "Supplier",
+  "action": "deliver prototype design documents",
+  "due": "2026-07-01",
+  "contract": "C08",
+  "status": "PAST DUE",
+  "days": -128
+ },
+ {
+  "party": "Customer",
+  "action": "provide feedback on prototype",
+  "due": "2026-08-15",
+  "contract": "C08",
+  "status": "PAST DUE",
+  "days": -83
+ },
+ {
+  "party": "Supplier",
+  "action": "deliver data migration completion report",
+  "due": "2026-04-20",
+  "contract": "C09",
+  "status": "PAST DUE",
+  "days": -200
+ },
+ {
+  "party": "Customer",
+  "action": "provide legacy system access",
+  "due": "2026-02-20",
+  "contract": "C09",
+  "status": "PAST DUE",
+  "days": -259
+ },
+ {
+  "party": "Supplier",
+  "action": "submit user training completion certificate",
+  "due": "2026-06-20",
+  "contract": "C09",
+  "status": "PAST DUE",
+  "days": -139
+ },
+ {
+  "party": "Either",
+  "action": "send notice of non-renewal (deadline)",
+  "due": "2028-11-20",
+  "contract": "C09",
+  "status": "UPCOMING",
+  "days": 745
+ },
+ {
+  "party": "Supplier",
+  "action": "deliver equipment specifications",
+  "due": "2026-08-01",
+  "contract": "C10",
+  "status": "PAST DUE",
+  "days": -97
+ },
+ {
+  "party": "Supplier",
+  "action": "submit installation completion report",
+  "due": null,
+  "contract": "C10",
+  "status": "NEEDS REVIEW (no date parsed)",
+  "days": null
+ }
+]

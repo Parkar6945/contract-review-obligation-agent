@@ -1,0 +1,32 @@
+SAAS SUBSCRIPTION AGREEMENT
+
+This SaaS Subscription Agreement ("Agreement") is entered into as of the Effective Date 05 January 2026 between Meridian Pharma Ltd ("Customer") and NovaTech Systems ("Supplier").
+
+1. TERM. This Agreement shall be effective for a period of (36) months from the Effective Date.
+
+2. RENEWAL. This Agreement shall automatically renew for successive periods of the same length unless either party provides written notice of non-renewal not less than (90) days before the end of the then-current term.
+
+3. PAYMENT. Customer shall pay all undisputed invoices within (30) days of receipt of the invoice.
+
+4. LIMITATION OF LIABILITY. Supplier's aggregate liability under this Agreement shall not exceed the total fees paid by Customer in the twelve (12) months preceding the claim.
+
+5. INDEMNITY. Each party shall indemnify the other against all losses, damages and costs arising from a breach of this Agreement or negligence of the indemnifying party.
+
+6. TERMINATION. Either party may terminate this Agreement for convenience upon thirty (30) days' prior written notice to the other party.
+
+7. CONFIDENTIALITY. Each party shall keep confidential all information received from the other party that is marked as confidential or that a reasonable person would understand to be confidential.
+
+8. GENERAL PROVISIONS. Each party shall comply with all applicable laws in the performance of its obligations under this Agreement.
+
+9. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of India.
+
+10. DELIVERABLES. Supplier shall deliver system integration documentation on or before 05 March 2026.
+
+11. DELIVERABLES. Customer shall provide user acceptance test results on or before April 05, 2026.
+
+12. DELIVERABLES. Supplier shall submit go-live readiness report on or before 05 June 2026.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+For Meridian Pharma Ltd:  ____________________
+For NovaTech Systems:  ____________________

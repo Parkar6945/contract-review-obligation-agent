@@ -1,0 +1,32 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of the Effective Date 10 January 2026 between Deccan Auto Components Ltd ("Customer") and Helix Components Co ("Supplier").
+
+1. TERM. This Agreement shall be effective for a period of (24) months from the Effective Date.
+
+2. RENEWAL. This Agreement shall automatically renew for successive periods of the same length unless either party provides written notice of non-renewal not less than (60) days before the end of the then-current term.
+
+3. PAYMENT. Customer shall pay all undisputed invoices within (60) days of receipt of the invoice.
+
+4. LIMITATION OF LIABILITY. Supplier's aggregate liability under this Agreement shall not exceed INR 50,00,000 (Fifty Lakh) for all claims arising under or in connection with this Agreement.
+
+5. INDEMNITY. Supplier shall indemnify Customer against all losses, damages and costs arising from a breach of this Agreement or negligence of Supplier.
+
+6. TERMINATION. Either party may terminate this Agreement for convenience upon thirty (30) days' prior written notice to the other party.
+
+7. CONFIDENTIALITY. Each party shall keep confidential all information received from the other party that is marked as confidential or that a reasonable person would understand to be confidential.
+
+8. DATA PROTECTION. Each party shall comply with the Digital Personal Data Protection Act, 2023 and all applicable data protection laws. Supplier, as data processor, shall process personal data only as instructed by Customer and shall implement appropriate technical and organisational measures.
+
+9. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of England.
+
+10. DELIVERABLES. Supplier shall deliver project plan and timeline on or before 10 February 2026.
+
+11. DELIVERABLES. Supplier shall submit quarterly performance report on or before April 10, 2026.
+
+12. DELIVERABLES. Customer shall provide site access for installation on or before 01 March 2026.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+For Deccan Auto Components Ltd:  ____________________
+For Helix Components Co:  ____________________

@@ -1,0 +1,32 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of the Effective Date 01 February 2026 between Zenith Financial Services ("Customer") and Apex Cloud Services ("Supplier").
+
+1. TERM. This Agreement shall be effective for a period of (24) months from the Effective Date.
+
+2. RENEWAL. This Agreement shall automatically renew for successive periods of the same length unless either party provides written notice of non-renewal not less than (30) days before the end of the then-current term.
+
+3. PAYMENT. Customer shall pay all undisputed invoices within (90) days of receipt of the invoice.
+
+4. LIMITATION OF LIABILITY. Supplier's aggregate liability under this Agreement shall be unlimited for all claims arising under or in connection with this Agreement.
+
+5. INDEMNITY. Each party shall indemnify the other against all losses, damages and costs arising from a breach of this Agreement or negligence of the indemnifying party.
+
+6. TERMINATION. Either party may terminate this Agreement only for material breach that remains uncured for thirty (30) days after written notice.
+
+7. CONFIDENTIALITY. Each party shall keep confidential all information received from the other party that is marked as confidential or that a reasonable person would understand to be confidential.
+
+8. DATA PROTECTION. Each party shall comply with the Digital Personal Data Protection Act, 2023 and all applicable data protection laws. Supplier, as data processor, shall process personal data only as instructed by Customer and shall implement appropriate technical and organisational measures.
+
+9. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of England.
+
+10. DELIVERABLES. Supplier shall deliver initial assessment report on or before 15 March 2026.
+
+11. DELIVERABLES. Customer shall provide historical data export on or before March 01, 2026.
+
+12. DELIVERABLES. Supplier shall submit compliance audit findings on or before 01 August 2026.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+For Zenith Financial Services:  ____________________
+For Apex Cloud Services:  ____________________

@@ -1,0 +1,30 @@
+SERVICES AGREEMENT
+
+This Services Agreement ("Agreement") is entered into as of the Effective Date 01 May 2026 between Quantum Digital Solutions Pvt Ltd ("Customer") and Atlas Supply Chain Co ("Supplier").
+
+1. TERM. This Agreement shall be effective for a period of (24) months from the Effective Date.
+
+2. RENEWAL. This Agreement shall not automatically renew. Either party may propose renewal by written notice at least thirty (30) days before the end of the term.
+
+3. PAYMENT. Customer shall pay all undisputed invoices within (45) days of receipt of the invoice.
+
+4. LIMITATION OF LIABILITY. Supplier's aggregate liability under this Agreement shall not exceed the total fees paid by Customer in the twelve (12) months preceding the claim.
+
+5. INDEMNITY. Each party shall indemnify the other against all losses, damages and costs arising from a breach of this Agreement or negligence of the indemnifying party.
+
+6. TERMINATION. Either party may terminate this Agreement only for material breach that remains uncured for thirty (30) days after written notice.
+
+7. CONFIDENTIALITY. Each party shall keep confidential all information received from the other party that is marked as confidential or that a reasonable person would understand to be confidential.
+
+8. DATA PROTECTION. Each party shall comply with the Digital Personal Data Protection Act, 2023 and all applicable data protection laws. Supplier, as data processor, shall process personal data only as instructed by Customer and shall implement appropriate technical and organisational measures.
+
+9. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of India.
+
+10. DELIVERABLES. Supplier shall deliver prototype design documents on or before 01 July 2026.
+
+11. DELIVERABLES. Customer shall provide feedback on prototype on or before August 15, 2026.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+For Quantum Digital Solutions Pvt Ltd:  ____________________
+For Atlas Supply Chain Co:  ____________________

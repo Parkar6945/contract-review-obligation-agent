@@ -1,0 +1,32 @@
+SUPPLY AGREEMENT
+
+This Supply Agreement ("Agreement") is entered into as of the Effective Date 22 March 2026 between Saffron Retail Holdings ("Customer") and DataBridge Analytics Pvt Ltd ("Supplier").
+
+1. TERM. This Agreement shall be effective for a period of (36) months from the Effective Date.
+
+2. RENEWAL. This Agreement shall automatically renew for successive periods of the same length unless either party provides written notice of non-renewal not less than (60) days before the end of the then-current term.
+
+3. PAYMENT. Customer shall pay all undisputed invoices within (45) days of receipt of the invoice.
+
+4. LIMITATION OF LIABILITY. Supplier's aggregate liability under this Agreement shall be unlimited for all claims arising under or in connection with this Agreement.
+
+5. INDEMNITY. Each party shall indemnify the other against all losses, damages and costs arising from a breach of this Agreement or negligence of the indemnifying party.
+
+6. TERMINATION. Either party may terminate this Agreement for convenience upon thirty (30) days' prior written notice to the other party.
+
+7. CONFIDENTIALITY. Each party shall keep confidential all information received from the other party that is marked as confidential or that a reasonable person would understand to be confidential.
+
+8. DATA PROTECTION. Each party shall comply with the Digital Personal Data Protection Act, 2023 and all applicable data protection laws. Supplier, as data processor, shall process personal data only as instructed by Customer and shall implement appropriate technical and organisational measures.
+
+9. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of Singapore.
+
+10. DELIVERABLES. Supplier shall deliver Phase 1 deliverables on or before 06 July 2026.
+
+11. DELIVERABLES. Supplier shall submit Phase 2 completion report on or before October 05, 2026.
+
+12. DELIVERABLES. Customer shall provide final acceptance certificate on or before 15 January 2027.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+For Saffron Retail Holdings:  ____________________
+For DataBridge Analytics Pvt Ltd:  ____________________
