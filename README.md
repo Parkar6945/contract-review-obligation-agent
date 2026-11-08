@@ -102,7 +102,7 @@ flowchart TD
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/contract-review-agent.git
+git clone https://github.com/Parkar6945/contract-review-obligation-agent.git
 cd contract-review-agent
 ```
 
